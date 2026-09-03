@@ -17,7 +17,7 @@ __pycache__/
 .env
 
 # Dataset
-TelcoChurn.xlsx
+# TelcoChurn.xlsx
 
 # VS Code
 .vscode/
