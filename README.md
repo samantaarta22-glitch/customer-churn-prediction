@@ -44,10 +44,9 @@ The goal is not only to maximize accuracy, but also to improve the model's abili
 ---
 
 
-### Copy-paste ini PERSIS ke README.md
+###  📁Project Structure
 
 ````markdown
-## 📁 Project Structure
 
 ```text
 customer-churn-prediction/
