@@ -1,12 +1,19 @@
-# Live Demo 🚀
+## Live Demo 🚀
+
 Coba langsung aplikasinya di sini:
 
-- **App (Logistic Regression):** [customer-churn-prediction-gqjnxwqubafvp7lwhyf9s.streamlit.app](https://customer-churn-prediction-gqjnxvwqubafvp7lwhyf9s.streamlit.app)
+* **App (Logistic Regression):** [customer-churn-prediction](https://customer-churn-prediction-gqjnxwqubafvp7lwhyf9s.streamlit.app)
+* **App (Logistic Regression + SMOTE):** [customer-churn-prediction-smote](https://customer-churn-prediction-4qseouhwd9ek9yqpwj49r6.streamlit.app)
+
 ### Fitur
-- 📊 Overview & KPI dashboard customer churn
-- 📈 Churn analytics berdasarkan contract, payment method, tenure
-- 🔮 Prediksi churn customer secara real-time berdasarkan input data
+
+* 📊 Overview & KPI dashboard customer churn
+* 📈 Churn analytics berdasarkan contract, payment method, dan tenure
+* 🔮 Prediksi churn customer secara real-time berdasarkan input data
+* ⚖️ SMOTE untuk meningkatkan kemampuan model dalam mendeteksi customer churn
+
 ---
+
 # 📊 Customer Churn Prediction
 
 A Machine Learning project to predict customer churn using **Logistic Regression**, with a comparison between a baseline model and a model trained using **SMOTE** to handle class imbalance.
