@@ -82,7 +82,7 @@ Several important patterns were identified during exploratory data analysis:
 - New customers had a higher probability of churn compared to long-term customers.
 - Customers with longer tenure tended to have lower churn rates.
 - Contract type and tenure were among the important factors associated with churn.
-
+---
 ## 👨‍💻 Author
 
 **Samanta Arta Sinuhaji**
