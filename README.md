@@ -62,7 +62,7 @@ customer-churn-prediction/
 
 ---
 
-## 🎯 Business Problem
+# 🎯 Business Problem
 
 Customer churn is an important business problem for telecommunication companies.
 Identifying customers who are likely to churn can help companies develop
