@@ -73,3 +73,12 @@ Identifying customers who are likely to churn can help companies develop targete
 **This project aims to build a machine learning classification model that predicts whether a customer is likely to churn based on their demographic, service, contract, and billing information.**
 
 ---
+
+## 🔍 Key Insights
+
+Several important patterns were identified during exploratory data analysis:
+
+- Month-to-month contract customers showed a substantially higher churn rate.
+- New customers had a higher probability of churn compared to long-term customers.
+- Customers with longer tenure tended to have lower churn rates.
+- Contract type and tenure were among the important factors associated with churn.
