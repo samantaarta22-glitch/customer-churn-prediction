@@ -6,7 +6,7 @@ Coba langsung aplikasinya di sini:
 - 📊 Overview & KPI dashboard customer churn
 - 📈 Churn analytics berdasarkan contract, payment method, tenure
 - 🔮 Prediksi churn customer secara real-time berdasarkan input data
-
+---
 # 📊 Customer Churn Prediction
 
 A Machine Learning project to predict customer churn using **Logistic Regression**, with a comparison between a baseline model and a model trained using **SMOTE** to handle class imbalance.
