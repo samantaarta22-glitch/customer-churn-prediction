@@ -2,7 +2,7 @@
 
 Coba langsung aplikasinya di sini:
 
-* **App (Logistic Regression):** [customer-churn-prediction](https://customer-churn-prediction-gqjnxwqubafvp7lwhyf9s.streamlit.app)
+* **App (Logistic Regression):** [customer-churn-prediction](https://customer-churn-prediction-gqjnxvwqubafvp7lwhyf9s.streamlit.app)
 * **App (Logistic Regression + SMOTE):** [customer-churn-prediction-smote](https://customer-churn-prediction-4qseouhwd9ek9yqpwj49r6.streamlit.app)
 
 ### Fitur
