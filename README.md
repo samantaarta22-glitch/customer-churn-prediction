@@ -1,7 +1,7 @@
 # Live Demo 🚀
 Coba langsung aplikasinya di sini:
 
-- **App (Logistic Regression):** [customer-churn-prediction-gqjnxwqubafvp7lwhyf9s.streamlit.app](https://customer-churn-prediction-gqjnxwqubafvp7lwhyf9s.streamlit.app)
+- **App (Logistic Regression):** [customer-churn-prediction-gqjnxwqubafvp7lwhyf9s.streamlit.app](https://customer-churn-prediction-gqjnxvwqubafvp7lwhyf9s.streamlit.app)
 ### Fitur
 - 📊 Overview & KPI dashboard customer churn
 - 📈 Churn analytics berdasarkan contract, payment method, tenure
