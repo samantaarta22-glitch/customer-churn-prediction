@@ -44,8 +44,7 @@ The goal is not only to maximize accuracy, but also to improve the model's abili
 ---
 
 
-###  📁Project Structure
-
+### 📁 Project Structure
 
 ```text
 customer-churn-prediction/
@@ -61,15 +60,16 @@ customer-churn-prediction/
 ├── README.md
 ├── .gitignore
 └── requirements.txt
-
+```
 
 ---
 
 ### 🎯 Business Problem
-```text
+
 Customer churn is an important business problem for telecommunication companies.
 
 Identifying customers who are likely to churn can help companies develop targeted retention strategies and reduce customer loss.
 
 **This project aims to build a machine learning classification model that predicts whether a customer is likely to churn based on their demographic, service, contract, and billing information.**
+
 ---
